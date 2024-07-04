@@ -41,7 +41,7 @@ The dataset used in this project includes information on universities in Nigeria
     cd privateuniversitiesanalysis
    ```
 
-   Install the required Python packages:
+3. Install the required Python packages:
 
    ```
     pip install pandas
