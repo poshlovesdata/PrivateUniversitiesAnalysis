@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to analyze the landscape of Nigerian universities by collecting and cleaning data, performing exploratory data analysis (EDA), and creating insightful visualizations using Power BI. The primary goal is to provide a comprehensive understanding of the higher education sector in Nigeria.
+This project aims to analyze the landscape of Nigerian private universities by collecting and cleaning data, performing exploratory data analysis (EDA), and creating insightful visualizations using Power BI. The primary goal is to provide a comprehensive understanding of the higher education sector in Nigeria.
 
 ## Table of Contents
 
