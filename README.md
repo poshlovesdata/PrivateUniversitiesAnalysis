@@ -7,14 +7,17 @@ This project aims to analyze the landscape of Nigerian universities by collectin
 ## Table of Contents
 
 - [Project Overview](#overview)
+- [Article](#article)
 - [Dataset](#dataset)
-- [Data Cleaning](#data-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Dashboard](#dashboard)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Article
+
+To read a more detailed documentation and processes involved in this project, check it out on [Medium](#https://medium.com/@poshlovesdata/from-web-scraping-to-data-dashboard-analyzing-private-universities-data-50db7493a181)
 
 ## Dataset
 
@@ -50,7 +53,10 @@ The dataset used in this project includes information on universities in Nigeria
 ## Usage
 
 1. Open the Jupyter Notebook file to see the data cleaning and EDA process
+
+   ```
    jupyter notebook private_uni.ipynb
+   ```
 
 2. View the Power BI dashboard by opening the dashboard.pbix file in Power BI Desktop.
 
@@ -61,5 +67,7 @@ The dataset used in this project includes information on universities in Nigeria
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-License
+
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
