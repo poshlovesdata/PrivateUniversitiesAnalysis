@@ -32,17 +32,19 @@ The dataset used in this project includes information on universities in Nigeria
 1. Clone the repository:
 
    ```
-   git clone https://github.com/poshlovesdata/PrivateUniversitiesAnalysis
-
+    git clone https://github.com/poshlovesdata/PrivateUniversitiesAnalysis
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd privateuniversitiesanalysis
+    cd privateuniversitiesanalysis
+   ```
 
    Install the required Python packages:
-   pip install pandas
+
+   ```
+    pip install pandas
    ```
 
 ## Usage
