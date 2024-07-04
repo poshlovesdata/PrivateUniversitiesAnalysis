@@ -17,7 +17,7 @@ This project aims to analyze the landscape of Nigerian universities by collectin
 
 ## Article
 
-To read a more detailed documentation and processes involved in this project, check it out on [Medium](#https://medium.com/@poshlovesdata/from-web-scraping-to-data-dashboard-analyzing-private-universities-data-50db7493a181)
+To read a more detailed documentation and processes involved in this project, check it out on Medium : https://medium.com/@poshlovesdata/from-web-scraping-to-data-dashboard-analyzing-private-universities-data-50db7493a181
 
 ## Dataset
 
